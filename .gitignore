@@ -1,0 +1,6 @@
+__pycache__
+res
+.ipynb_checkpoints
+good
+bad
+dask-worker-space
