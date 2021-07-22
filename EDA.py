@@ -50,3 +50,5 @@ for i in range(0,9):
     plt.subplot(330+1+i)
     plt.imshow(get_image(data[b'data'][i]))
 plt.show()
+
+print("Editting the script!!")
